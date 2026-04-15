@@ -1,0 +1,31 @@
+id,text,label,source
+1,yaar movie mast hai totally loved it,1,twitter
+2,plot bilkul bakwas tha time waste,0,review
+3,actor ka performance acha tha but story weak,1,forum
+4,service bahut kharab never coming back,0,review
+5,food tasty tha price thoda zyada,1,restaurant
+6,delivery late thi aur customer care rude,0,ecommerce
+7,office ka environment friendly hai,1,workplace
+8,product quality expected se better thi,1,shopping
+9,app baar baar crash kar rahi hai,0,appstore
+10,phone battery life disappointing,0,techforum
+11,teacher bahut helpful aur patient hain,1,education
+12,hotel room clean tha staff polite,1,travel
+13,website navigation confusing and slow,0,web
+14,concert amazing tha best night ever,1,events
+15,refund process bahut slow aur frustrating,0,ecommerce
+16,camera quality superb low light bhi acha,1,tech
+17,food served cold tha not happy,0,restaurant
+18,game graphics awesome gameplay smooth,1,gaming
+19,subscription auto renew without notice,0,service
+20,customer support solved problem quickly,1,service
+21,train late thi aur announcement nahi hua,0,travel
+22,book engaging tha finish karte hi recommend karunga,1,books
+23,app update ne sab settings reset kar diye,0,appstore
+24,delivery packaging secure tha product safe,1,ecommerce
+25,store staff unhelpful aur rude,0,shopping
+26,workshop informative aur interactive tha,1,education
+27,price reasonable aur value for money,1,shopping
+28,connection drops frequently during calls,0,telecom
+29,movie dialogues entertaining aur music catchy,1,entertainment
+30,refund denied without proper reason,0,service
